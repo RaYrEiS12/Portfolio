@@ -45,7 +45,7 @@ Este repositório está em construção. Os projetos serão apresentados com seu
 
 ## Objetivo profissional
 
-Busco uma oportunidade de estágio ou posição inicial em TI, com interesse em suporte técnico, infraestrutura, redes de computadores e desenvolvimento de software.
+Busco uma oportunidade de estágio ou posição inicial em **Suporte de TI, Infraestrutura ou Redes de Computadores**, unindo minha formação em Análise e Desenvolvimento de Sistemas à experiência com atendimento, abertura de chamados e resolução de demandas. Quero contribuir para a solução de problemas técnicos, a continuidade dos serviços e uma melhor experiência dos usuários, enquanto desenvolvo minhas habilidades na prática.
 
 ## Contato
 
