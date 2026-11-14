@@ -33,10 +33,14 @@ Este repositório está em construção. Os projetos serão apresentados com seu
 
 ## Competências
 
-- Comunicação clara e atendimento ao cliente.
-- Organização de documentos e acompanhamento de demandas.
-- Pensamento analítico e resolução de problemas.
-- Responsabilidade, trabalho em equipe e aprendizado contínuo.
+- **Lógica de programação e orientação a objetos:** aplicação de conceitos em exercícios e projetos acadêmicos com Java.
+- **Banco de dados:** conhecimentos em modelagem de dados e consultas SQL.
+- **Suporte ao usuário:** comunicação clara, registro de chamados e compreensão das necessidades de quem utiliza os sistemas.
+- **Análise de problemas técnicos:** uso de pensamento analítico e ferramentas do navegador (DevTools) para investigar falhas em aplicações web.
+- **Redes e infraestrutura:** conhecimentos acadêmicos sobre TCP/IP, DNS, dispositivos de rede e conectividade.
+- **Qualidade de software:** fundamentos de testes, TDD e identificação de falhas.
+- **Segurança da informação:** noções de proteção de dados, controle de acesso e LGPD.
+- **Colaboração em TI:** organização de demandas, documentação de procedimentos e aprendizado contínuo de tecnologias.
 
 ## Objetivo profissional
 
