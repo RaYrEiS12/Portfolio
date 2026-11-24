@@ -3,7 +3,7 @@
 
 **Estudante de Análise e Desenvolvimento de Sistemas | Java • SQL | Interesse em Suporte e Infraestrutura de TI**
 
-Brasília — DF · [LinkedIn](https://www.linkedin.com/in/raiane-reis-902551278) · [GitHub](https://github.com/RaYrEiS12)
+Brasília — DF · [LinkedIn](https://www.linkedin.com/in/raiane-reis-ads/) · [GitHub](https://github.com/RaYrEiS12)
 
 ## Sobre mim
 
@@ -53,4 +53,4 @@ Busco uma oportunidade de estágio ou posição inicial em **Suporte de TI, Infr
 
 ## Contato
 
-Para conversar sobre oportunidades e projetos, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/raiane-reis-902551278).
+Para conversar sobre oportunidades e projetos, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/raiane-reis-ads/).
