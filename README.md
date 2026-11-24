@@ -1,7 +1,7 @@
 # Raiane Reis 
 
 
-**Estudante de Análise e Desenvolvimento de Sistemas | Java • SQL | Interesse em Suporte e Infraestrutura de TI**
+**Estudante de Análise e Desenvolvimento de Sistemas | Software, Redes e Suporte de TI**
 
 Brasília — DF · [LinkedIn](https://www.linkedin.com/in/raiane-reis-ads/) · [GitHub](https://github.com/RaYrEiS12)
 
