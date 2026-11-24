@@ -35,6 +35,7 @@ Os conhecimentos acima refletem minha formação e minhas práticas acadêmicas,
 | **1. API REST de Reservas de Salas** | Backend em Java e Spring Boot para cadastrar, consultar, alterar e excluir reservas. A demonstração mostra o cadastro com `POST` no PowerShell e a consulta com `GET /reservas` no navegador. |
 | **2. Topologia de Rede para uma Loja de Conserto de Celulares** | Planejamento de uma rede para conectar a recepção e o laboratório técnico, com roteador, switch Gigabit, armazenamento em rede (NAS) e backup local e em nuvem. |
 | **3. Arquitetura em Nuvem AWS · AgilizaPay** | Proposta acadêmica de infraestrutura para uma aplicação de pagamentos e faturamento, com duas Zonas de Disponibilidade, Amazon EC2, Amazon RDS Multi-AZ e balanceamento de carga. |
+| **4. ReConecta \| Canvas de Modelo de Negócio Social** | Proposta acadêmica de um projeto-piloto em Samambaia Sul (DF) para coletar e reaproveitar celulares usados. A ideia é vender aparelhos recondicionados a preços acessíveis, usar parte da receita para custear reparos de celulares destinados à doação e encaminhar à reciclagem os aparelhos que não puderem ser recuperados. [Ver Canvas em PDF](Canvas_ReConecta.pdf) |
 
 ## Competências
 
