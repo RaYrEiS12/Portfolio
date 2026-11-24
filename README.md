@@ -1,7 +1,7 @@
 # Raiane Reis 
 
 
-**Estudante de Análise e Desenvolvimento de Sistemas | Software, Redes e Suporte de TI**
+**Estudante de Análise e Desenvolvimento de Sistemas | Tecnologia da Informação | Projetos em Software, Dados e Redes | Suporte de TI**
 
 Brasília — DF · [LinkedIn](https://www.linkedin.com/in/raiane-reis-ads/) · [GitHub](https://github.com/RaYrEiS12)
 
